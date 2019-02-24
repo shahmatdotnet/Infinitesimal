@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>net.shahmat.InfinitesimalLib</RootNamespace>
+    <Authors>ShahMat</Authors>
+    <Description>Core Functions for Infinitesimal</Description>
+    <Copyright>2019 Robert Royall</Copyright>
+    <PackageLicenseUrl>https://github.com/shahmatdotnet/Infinitesimal/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/shahmatdotnet/Infinitesimal/</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/shahmatdotnet/Infinitesimal/</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>blog</PackageTags>
+    <Version>0.0.1</Version>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>net.shahmat.InfinitesimalCli</RootNamespace>
+    <Copyright>2019 Robert Royall</Copyright>
+    <PackageLicenseUrl>https://github.com/shahmatdotnet/Infinitesimal/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/shahmatdotnet/Infinitesimal/</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/shahmatdotnet/Infinitesimal/</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>blog</PackageTags>
+    <Authors>ShahMat</Authors>
+    <Description>Command Line UI for Infinitesimal</Description>
+    <Version>0.0.1</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\InfinitesimalLib\InfinitesimalLib.csproj" />
+  </ItemGroup>
+
+</Project>
